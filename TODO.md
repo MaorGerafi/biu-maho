@@ -9,4 +9,4 @@
 - [x] Save extended dataset to `iris_extended.csv`.
 - [x] Create `PRD.md` and `report.md`.
 - [x] Add documentation (`README.md`, `PLAN.md`, `TODO.md`).
-- [ ] Upload to GitHub (Awaiting local Git installation).
+- [x] Upload to GitHub (Awaiting local Git installation).
