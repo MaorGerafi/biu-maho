@@ -1,5 +1,6 @@
 ﻿# Iris Classification Project (4 Categories)
-
+#GroupID:biu-maho-ex01
+#Submited: by Maor Gerafi & Hodaya Golomb 
 ## Overview
 This project performs classification on an extended version of the classic Iris dataset. To meet specific course requirements, a synthetic 4th category ("Iris-Unknown") was added to the original 3-class dataset, resulting in 200 total samples.
 
